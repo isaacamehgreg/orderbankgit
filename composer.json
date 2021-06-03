@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mafftor/laravel-file-manager": "^2.0"
+    }
+}

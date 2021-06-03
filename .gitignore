@@ -1,0 +1,12 @@
+logs/access_log
+logs/error_log
+main/.idea/misc.xml
+main/.idea/modules.xml
+main/.idea/perfectmalldelivery.iml
+main/.idea/php.xml
+main/.idea/workspace.xml
+uploads/store/items/
+uploads/store/items/*
+main/vendor
+/vendor
+/.idea
